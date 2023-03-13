@@ -12,10 +12,10 @@ This program allows you to have RP on your discord profile
 
 - **IMPORTANT**: `config.json` and `bot.exe` files have to be in same folder or else program will not work!
 
-# Need Help?
+## Need Help?
 
 If you need help contact me on my [discord server](https://discord.gg/xgET5epJE6).
 
-# Contributors
+## Contributors
 
 Big thanks to all of the amazing people (only me) who have helped by contributing to this project!
