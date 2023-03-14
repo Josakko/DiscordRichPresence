@@ -23,7 +23,7 @@ This program allows you to have RP on your discord profile
   <img alt="issue" src="https://github.com/Josakko/DiscordRichPresence/blob/main/image.png?raw=true" width="500px">
 </p>
 
-- **IMPORTANT**: If after entering all data program just closes that means that ID witch you pasted is incorect. 
+- **IMPORTANT**: If after entering all data program just closes that means that ID witch you pasted is incorrect. 
 
 5. That is it when you open your account you will see that you are playing the name of the application. When you open `bot.exe` all data that you inputted last time will be loaded automatically so you don't have to input anything (on image down below is example how Rich Presence looks on discord profile). 
 
