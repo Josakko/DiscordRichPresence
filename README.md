@@ -13,7 +13,7 @@ This program allows you to have RP on your discord profile
 
 - **IMPORTANT**: `config.json` and `bot.exe` files have to be in same folder or else program will not work!
 
-2. Go to the [discord developer portal](https://discord.com/developers/applications), sign in, and click `New Application`. Choose any name (keep in mind tah name of that aplication is going to display like this `Playing name of your app`), click accept and create. Next go to the `Rich Presence` section and click `Add Image(s)` button (if you want to have any icon on your rich presence), select your image, upload it and rename it however you want but just make sure to remember its name. Next go to `General Information` section, there find `APPLICATION ID` and under it `Copy` button that you want to click.
+2. Go to the [discord developer portal](https://discord.com/developers/applications), sign in, and click `New Application`. Choose any name (keep in mind that name of that aplication is going to display like this `Playing name of your app`), click accept and create. Next go to the `Rich Presence` section and click `Add Image(s)` button (if you want to have any icon on your rich presence), select your image, upload it and rename it however you want but just make sure to remember its name. Next go to `General Information` section, there find `APPLICATION ID` and under it `Copy` button that you want to click.
 
 3. Run the `bot.exe` witch you downloaded earlier in first step. After program asks you to input app ID just paste ID that you copied earlier using `CTRL + V` and press `ENTER`.
 
