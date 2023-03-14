@@ -17,7 +17,7 @@ This program allows you to have RP on your discord profile
 
 3. Run the `bot.exe` witch you downloaded earlier in first step. After program asks you to input app ID just paste ID that you copied earlier using `CTRL + V` and press `ENTER`.
 
-4. Next program will ask you to input other data, for example in next input question you want to write message to be displayed on your RP, in this input just write the name of the icon that you uploaded in discord developer portal (if you renamed you image to `icon` just write that), button text is text you want to be displayed on button and button URL is what URL that will button will lead to when clicked for example it can be invite link for an server (when you do so you will see something like image down below).
+4. Next program will ask you to input other data, for example in next input question you want to write message to be displayed on your RP, in this input just write the name of the icon that you uploaded in discord developer portal (if you renamed you image to `icon` just write that), button text is text you want to be displayed on button and button URL is URL that will be opened when user clicked button for example it can be invite link for an server (when you do so you will see something like image on down below).
 
 <p align="center">
   <img alt="issue" src="https://github.com/Josakko/DiscordRichPresence/blob/main/image.png?raw=true" width="500px">
