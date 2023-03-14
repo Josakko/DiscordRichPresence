@@ -31,7 +31,7 @@ This program allows you to have RP on your discord profile
 
 - **IMPORTANT**: If you close terminal window that opened after you ran `bot.exe` RP will disappear from your account.
 
-1. In case that you want to reset saved data (button URL, button text, icon exedra) just copy text down below and open `config.json` file. There replace existing text whit text you just copied. Now when you run `bot.exe` next time you will have to input data again.
+6. In case that you want to reset saved data (button URL, button text, icon exedra) just copy text down below and open `config.json` file. There replace existing text whit text you just copied. Now when you run `bot.exe` next time you will have to input data again.
  
 ```
   {
