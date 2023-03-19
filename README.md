@@ -9,7 +9,7 @@ This program allows you to have RP on your discord profile
 
 # Usage
 
-1. Download executable file [here](https://www.mediafire.com/file/4p9jld87qggyqhe/Discord_RPC.zip/file), after that unzip it.
+1. Download executable file [here](https://github.com/Josakko/DiscordRichPresence/archive/refs/heads/main.zip), after that unzip it.
 
 - **IMPORTANT**: `config.json` and `bot.exe` files have to be in same folder or else program will not work!
 
